@@ -1,5 +1,5 @@
 #latihan 1
-Hallo nama saya Cahyo Hidayatullah. Disini saya akan menjelaskan cara penggunaan Git yang kita perlukan aialah Applikasi git , akun git. Sebelum itu saya akan kasih tutorial cara penginstalan GIT.
+Hallo nama saya Ilham Sabili. Disini saya akan menjelaskan cara penggunaan Git yang kita perlukan aialah Applikasi git , akun git. Sebelum itu saya akan kasih tutorial cara penginstalan GIT.
 
 Cara penginstalan GIT
 Pertama anda harus mendownload Aplikasi Git, buka website resminya Git di git-scm.com .
